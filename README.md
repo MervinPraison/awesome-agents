@@ -135,7 +135,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [BitFun](https://github.com/GCWing/BitFun): Open-source desktop agent with a Rust runtime for real repositories, browser, terminal, and desktop execution, extensible through MCP, Skills, and custom agents. ![GitHub Repo stars](https://img.shields.io/github/stars/GCWing/BitFun?style=social)
 - [CompozyOS](https://github.com/compozy/compozy): Open-source operating system for AI agents — plug in the agent CLIs you already use and run them as a team on loops and schedules, with shared memory, permissions and approvals ![GitHub Repo stars](https://img.shields.io/github/stars/compozy/compozy?style=social)
 - [Ouroboros (Agent OS)](https://github.com/Q00/ouroboros): A Socratic interview gates the spec on an ambiguity score, then one command drives execution, a staged evaluation gate, and a budgeted evolution loop that runs the semantic stage only. ![GitHub Repo stars](https://img.shields.io/github/stars/Q00/ouroboros?style=social)
-- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. No account or API key required, with 56 tools (browser, filesystem, git, memory, vision), MCP support, and 5-layer local memory. macOS, Linux, and Windows. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent): Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
 - [Keen Code](https://github.com/mochow13/keen-code): Open-source, context-aware terminal coding agent written in Go with multiple providers, Turn Memory for controllable cross-turn tool-output retention, skill-driven MCP integration, subagents, Agent Skills, and hashline edits. ![GitHub Repo stars](https://img.shields.io/github/stars/mochow13/keen-code?style=social)
 
 ## Research
@@ -176,7 +176,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [Enclave](https://github.com/yuanzui0728/enclave): Self-hosted single-owner AI social world; each instance is populated by autonomous AI residents with personalities, schedules and relationships who chat, form group conversations, post to a social feed and proactively message the owner. ![GitHub Repo stars](https://img.shields.io/github/stars/yuanzui0728/enclave?style=social)
 - [MiroShark](https://github.com/MiroShark/MiroShark): Universal swarm-intelligence engine — drop in a scenario and hundreds of grounded LLM agents simulate Twitter, Reddit, and a prediction market hour-by-hour, with counterfactual branching, per-agent MCP tools, and a public gallery of finished runs. ![GitHub Repo stars](https://img.shields.io/github/stars/MiroShark/MiroShark?style=social)
 
-## Knowledge Management
+## Memory - Knowledge Management
 
 - [Private GPT](https://github.com/zylon-ai/private-gpt): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=social)
 - [Local GPT](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings ![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)
@@ -190,8 +190,8 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac): Self-updating repo wiki for AI coding agents that tracks project conversations, decisions, and context locally inside the repository. ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac?style=social)
 - [IWE](https://github.com/iwe-org/iwe): Markdown knowledge graph for you and your AI agents — editor LSP plus CLI and MCP server so agents can search, retrieve, and refactor plain-text notes. ![GitHub Repo stars](https://img.shields.io/github/stars/iwe-org/iwe?style=social)
 
-- [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format (agent-plugins.org). ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
-- [pond](https://github.com/tenequm/pond): Lossless storage and search for AI agent sessions across every agentic client - whole sessions from twelve harnesses (Claude Code, Codex, opencode, Letta, pi and more) kept in a local directory or your own S3 bucket, and handed back to agents over MCP, HTTP and read-only SQL. The archive layer underneath a memory tool, not another memory tool. ![GitHub Repo stars](https://img.shields.io/github/stars/tenequm/pond?style=social)
+- [OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents — unifies Agent Memory, Knowledge RAG, and Skills behind a single interface, with a portable Agent Plugins package format. ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social)
+- [pond](https://github.com/tenequm/pond): Lossless storage and search for AI agent sessions across every agentic client. ![GitHub Repo stars](https://img.shields.io/github/stars/tenequm/pond?style=social)
 
 ## Automation
 
